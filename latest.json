@@ -1,0 +1,15 @@
+{
+    "version":  "0.1.1",
+    "url":  "https://github.com/romyrudiansah/salin/releases/download/v0.1.1/Salin-Setup-0.1.1.exe",
+    "size":  5096558,
+    "sha256":  "69fe398b3bf8c4338b80cb603f72857296012f9f1f42361b448a8df827633ef4",
+    "date":  "2026-11-14",
+    "notes":  {
+                  "id":  [
+                             "Bilah judul jendela sekarang mengikuti tema Salin. Di Windows bermode gelap, bilah judul tidak lagi hitam saat Salin bertema terang."
+                         ],
+                  "en":  [
+                             "The window title bar now follows Salin\u0027s theme. On Windows in dark mode, the title bar is no longer black while Salin uses the light theme."
+                         ]
+              }
+}
