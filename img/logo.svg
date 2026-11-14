@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Salin "Ganda Panah" (konsep 2, dipilih pemilik 12 November 2026): dua kotak bertindih, kotak
+       belakang garis tepi dan kotak depan berpanah: salin sekaligus pindahkan. Latar samudra rata. -->
+  <rect width="256" height="256" rx="56" fill="#1C76D2"/>
+  <rect x="52" y="52" width="104" height="104" rx="22" fill="none" stroke="#FFFFFF" stroke-width="22"/>
+  <rect x="100" y="100" width="104" height="104" rx="22" fill="#FFFFFF" stroke="#1C76D2" stroke-width="16" paint-order="stroke"/>
+  <g fill="none" stroke="#1C76D2" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 152H178"/>
+    <path d="M158 132L178 152L158 172"/>
+  </g>
+</svg>

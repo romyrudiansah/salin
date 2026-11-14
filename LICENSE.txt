@@ -1,0 +1,32 @@
+Lisensi Salin (freeware)
+=========================
+
+Hak cipta (c) 2026 Romy Rudiansah. Semua hak dilindungi.
+
+Salin adalah perangkat lunak gratis (freeware), bukan perangkat lunak sumber terbuka. Lisensi ini berlaku untuk salin.exe. Komponen pihak ketiga memakai lisensinya sendiri.
+
+1. Anda boleh memasang dan memakai Salin secara gratis, untuk keperluan pribadi maupun komersial, di komputer sebanyak yang Anda perlukan.
+2. Anda boleh membagikan installer Salin yang tidak diubah, tanpa memungut biaya. Lebih baik bagikan tautan website resminya: (belum ada / not yet available)
+3. Anda tidak boleh menjual Salin, mengubah salin.exe, atau membongkarnya (reverse engineering, decompile, disassemble), kecuali sejauh diizinkan hukum yang berlaku.
+4. Salin menyalin dan memindahkan file di komputer Anda sendiri dan tidak mengirim apa pun ke mana pun. Anda tetap bertanggung jawab memeriksa hasil salinan, terutama untuk cadangan penting; pakai verifikasi bila perlu.
+5. Salin disediakan "apa adanya", tanpa jaminan apa pun. Sejauh diizinkan hukum yang berlaku, pembuatnya tidak bertanggung jawab atas kerugian yang timbul dari pemakaian Salin, termasuk kehilangan data.
+6. Daftar komponen pihak ketiga dan lisensinya ada di THIRD-PARTY-NOTICES.txt.
+
+Kontak: romy.rudiansah@gmail.com
+
+
+Salin license (freeware)
+=========================
+
+Copyright (c) 2026 Romy Rudiansah. All rights reserved.
+
+Salin is free software to use (freeware). It is not open source. This license applies to salin.exe. Third-party components have their own licenses.
+
+1. You may install and use Salin free of charge, for personal or commercial purposes, on as many computers as you need.
+2. You may share the unmodified Salin installer, free of charge. Sharing a link to the official website is preferred: (belum ada / not yet available)
+3. You may not sell Salin, modify salin.exe, or reverse engineer, decompile or disassemble it, except to the extent applicable law allows.
+4. Salin copies and moves files on your own computer and sends nothing anywhere. You remain responsible for checking the copies, especially important backups; use verification where needed.
+5. Salin is provided "as is", without warranty of any kind. To the extent applicable law allows, its author is not liable for any damage arising from the use of Salin, including data loss.
+6. The third-party components and their licenses are listed in THIRD-PARTY-NOTICES.txt.
+
+Contact: romy.rudiansah@gmail.com

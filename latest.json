@@ -1,0 +1,23 @@
+{
+    "version":  "0.1.0",
+    "url":  "https://github.com/romyrudiansah/salin/releases/download/v0.1.0/Salin-Setup-0.1.0.exe",
+    "size":  5097018,
+    "sha256":  "4f1e04f4a71bd8d487d6141f911522a755a9740fdbb649f4b3ed1b8e8eb53dc8",
+    "date":  "2026-11-14",
+    "notes":  {
+                  "id":  [
+                             "Versi pertama Salin: salin dan pindahkan file dan folder dengan antrean per drive, jeda di tengah file, dan verifikasi hash xxh3-128.",
+                             "File ditulis ke nama sementara lalu diganti ke nama asli setelah lengkap; file sumber yang dipindah baru dihapus setelah salinannya lengkap.",
+                             "Konflik: tanya, timpa, lewati, timpa bila lebih baru, lewati yang sama, atau simpan keduanya. \"Coba lagi\" tanpa menyalin ulang yang sudah beres.",
+                             "Menu klik kanan Explorer (\"Salin ke…\", \"Pindahkan ke…\", \"Tempel dengan Salin\") dan \"Kirim ke \u003e Salin\", tanpa DLL.",
+                             "Rincian per file dan log yang bisa dibuka di Excel, progres di taskbar, bahasa Indonesia dan Inggris, tema terang dan gelap, pembaruan otomatis."
+                         ],
+                  "en":  [
+                             "First release of Salin: copy and move files and folders with a per-drive queue, pause in the middle of a file, and xxh3-128 hash verification.",
+                             "Files are written to a temporary name and renamed to the real name once complete; moved source files are deleted only after the copy is complete.",
+                             "Conflicts: ask, overwrite, skip, overwrite if newer, skip identical, or keep both. \"Retry\" without copying what already went through.",
+                             "Explorer right-click menu (\"Copy to…\", \"Move to…\", \"Paste with Salin\") and \"Send to \u003e Salin\", with no DLL.",
+                             "Per-file details and a log that opens in Excel, taskbar progress, Indonesian and English, light and dark themes, automatic updates."
+                         ]
+              }
+}
